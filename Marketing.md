@@ -34,6 +34,6 @@ Incluso podemos crear nuestra página web de forma muy intuitiva desde el aparta
 
 También podemos crear un formulario personalizado para incrustar en nuestra página web:
 
-![HubStopMarketing](https://github.com/Meeeldg/hubspot_idp/blob/main/fotos/33.JPG)
+![HubStopMarketing10](https://github.com/Meeeldg/hubspot_idp/blob/main/fotos/33.JPG)
 
 
